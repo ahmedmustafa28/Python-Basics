@@ -1,10 +1,13 @@
 # Python-Basics
-It contains simple python programs.
-The topics which are included are :
-1. String and Conditional statements.
-2. List and Tuple
-3. Dictionary and Set
-4. While and For loop
-5. Function and Recursion
-6. File I/O Handling
-7. OOP Pillars (Abstraction, Encapsulation, Inheritance, Polymorphism)
+This repository contains my Python practice programs covering the core fundamentals of Python.
+
+Topics Covered:
+Strings & Conditional Statements
+Lists & Tuples
+Dictionaries & Sets
+Loops (While & For)
+Functions & Recursion
+File I/O Handling
+Object-Oriented Programming (Abstraction, Encapsulation, Inheritance, Polymorphism)
+
+A collection of beginner-friendly Python exercises to strengthen programming foundations.
